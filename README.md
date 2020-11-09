@@ -1,0 +1,1 @@
+This is an app which allowser user to match friends based on common interest in movies which they like to watch or have watched.
